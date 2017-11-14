@@ -50,6 +50,7 @@ Plug 'drewolson/vimux-elixir-test'
 Plug 'pitluga/vimux-nose-test'
 Plug 'pgr0ss/vimux-ruby-test'
 Plug 'tpope/vim-vinegar'
+Plug 'udalov/kotlin-vim'
 
 if filereadable(expand("~/.vimrc.bundles.local"))
   source ~/.vimrc.bundles.local
